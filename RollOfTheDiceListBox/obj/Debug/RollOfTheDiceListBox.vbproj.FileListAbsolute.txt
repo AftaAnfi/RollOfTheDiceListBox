@@ -1,0 +1,13 @@
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\bin\Debug\RollOfTheDiceListBox.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\bin\Debug\RollOfTheDiceListBox.exe
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\bin\Debug\RollOfTheDiceListBox.pdb
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\bin\Debug\RollOfTheDiceListBox.xml
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\obj\Debug\RollOfTheDiceListBox.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\obj\Debug\RollOfTheDiceListBox.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\obj\Debug\RollOfTheDiceListBox.RollOfTheDiceListBoxForm.resources
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\obj\Debug\RollOfTheDiceListBox.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\obj\Debug\RollOfTheDiceListBox.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\obj\Debug\RollOfTheDiceListBox.exe
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\obj\Debug\RollOfTheDiceListBox.xml
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\obj\Debug\RollOfTheDiceListBox.pdb
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDiceListBox\RollOfTheDiceListBox\RollOfTheDiceListBox\obj\Debug\RollOfTheDiceListBox.AboutForm.resources
